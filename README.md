@@ -6,7 +6,7 @@ Treat your CSV files as tables, use select/update/delete/join with them using SQ
 
 ## Reason
 
-I wanted to store tables in github and i come across [dolthub](https://www.dolthub.com/), which is great product, but I don't wanted use github or any other service, so built this tool to use CSV files as tables and do SQL operations on them.
+I wanted to store tables in github and i come across [dolthub](https://www.dolthub.com/), which is great product, but I wanted use github or any other service, so built this tool to use CSV files as tables and also track them.
 
 other use cases,
 
